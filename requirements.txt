@@ -1,3 +1,0 @@
-daisykit<0.2
-imutils
-playsound
